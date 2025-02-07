@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -200,6 +200,7 @@ exclude:
   - _pages/publications.md
   - _pages/respositories.md
   - _pages/teaching.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
