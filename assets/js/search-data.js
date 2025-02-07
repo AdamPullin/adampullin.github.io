@@ -432,13 +432,6 @@ ninja.data = [{
           window.open("mailto:%61%6C%70%37%38@%63%61%6D.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://gitlab.com/AdamPullin", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
